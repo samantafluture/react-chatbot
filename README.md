@@ -2,7 +2,7 @@
 
 A chatbot built with ReactJS to help new developers find tutoriols on specific Javascript subjects.
 
-Technologis:
+Technologies:
 
 - ReactJS
 - React-chatbot-kit 2.0
